@@ -38,3 +38,4 @@ echo "now lets install the black arch repo..."
 
 
 pacman -Syu
+exit
