@@ -6,7 +6,7 @@ curl -O https://blackarch.org/strap.sh
 
 echo 5ea40d49ecd14c2e024deecf90605426db97ea0c strap.sh | sha1sum -c
 
-echo $(whoami) "did the sha pass...?"
+echo $(whoami) "...above...did the sha pass...?"
 
 function confirm() {
     while true; do
