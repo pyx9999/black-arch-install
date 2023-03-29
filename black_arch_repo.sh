@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pacman -Syu
+
 curl -O https://blackarch.org/strap.sh
 
 
