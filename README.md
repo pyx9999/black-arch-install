@@ -1,5 +1,5 @@
 # black-arch-install
-Want blackarch repo? this is a shell script for installing the blackarch repo on top of ArchLinux.
+do you want the blackarch repo? this is a shell script for installing the blackarch repo on top of ArchLinux.
 
 download zip 
 
