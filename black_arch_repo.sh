@@ -20,7 +20,7 @@ function confirm() {
     done
 }
  
-# Example usage of the confirm function
+
 if confirm; then
     echo "User chose YES. Executing the operation..."
     chmod +x strap.sh
