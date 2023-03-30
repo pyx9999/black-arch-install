@@ -3,7 +3,7 @@ do you want the blackarch repo? this is a shell script for installing the blacka
 
 Install arch linux distro:
 
-recommendation: manjaro or arch linux.
+recommendation: manjaro or arch linux os.
 
 garuda os does this for you
 
