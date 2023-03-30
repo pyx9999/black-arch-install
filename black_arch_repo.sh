@@ -24,6 +24,11 @@ function confirm() {
 if confirm; then
     echo "User chose YES. Executing the operation..."
     chmod +x strap.sh
+    echo "now lets install the black arch repo..."
+    ./strap.sh
+    pacman -Syu
+    exit
+
 else
     echo "User chose NO. Aborting the operation..."
     exit
@@ -33,9 +38,5 @@ echo "now lets install the black arch repo..."
 
 
 
-# Run strap.sh
-./strap.sh
 
-
-pacman -Syu
 exit
