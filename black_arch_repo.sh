@@ -34,9 +34,5 @@ else
     exit
 fi
 
-echo "now lets install the black arch repo..."
-
-
-
 
 exit
