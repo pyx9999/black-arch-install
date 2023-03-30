@@ -1,6 +1,14 @@
 # black-arch-install
 do you want the blackarch repo? this is a shell script for installing the blackarch repo on top of ArchLinux.
 
+Install arch linux distro:
+
+recommendation: manjaro or arch linux.
+
+garuda os does this for you
+
+How to install: 
+
 download zip 
 
 extract to home 
