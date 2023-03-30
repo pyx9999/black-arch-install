@@ -35,6 +35,7 @@ else
     echo "...the sha doesnt match..."
     echo "update with new sha"
     sha1sum strap.sh
+    echo "remove strap.sh"
     echo "and then run again"
     exit
 fi
