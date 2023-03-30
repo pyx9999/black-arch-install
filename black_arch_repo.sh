@@ -32,7 +32,7 @@ if confirm; then
 else
     echo "User chose NO. Aborting the operation..."
     echo "someone may be doing something sneaky"
-    echo "...check the sha..."
+    echo "...the sha doesnt match..."
     exit
 fi
 
