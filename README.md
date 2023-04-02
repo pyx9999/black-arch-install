@@ -5,7 +5,7 @@ Install arch linux distro:
 
 recommendation: manjaro or arch linux os.
 
-garuda os add the repo for you, btw
+garuda os setup assistant adds the repo for you, btw
 
 How to install: 
 
