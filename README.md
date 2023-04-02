@@ -9,6 +9,8 @@ recommendation: manjaro or arch linux os.
 
 **garuda os setup assistant adds the repo for you, btw**
 
+https://garudalinux.org/
+
 How to install: 
 
 download zip 
