@@ -33,10 +33,9 @@ else
     echo "User chose NO. Aborting the operation..."
     echo "someone may be doing something sneaky"
     echo "...the sha doesnt match..."
-    echo "update with new sha"
     sha1sum strap.sh
+    echo "...investigate further...
     echo "remove strap.sh"
-    echo "and then run again"
     exit
 fi
 
