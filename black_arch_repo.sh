@@ -34,7 +34,8 @@ else
     echo "someone may be doing something sneaky"
     echo "...the sha doesnt match..."
     sha1sum strap.sh
-    echo "...investigate further...
+    echo "...investigate further..."
+    echo "...visit https://blackarch.org/downloads.html...."
     echo "remove strap.sh"
     exit
 fi
